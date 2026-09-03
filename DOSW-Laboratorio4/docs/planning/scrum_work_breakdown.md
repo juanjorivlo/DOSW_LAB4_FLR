@@ -55,71 +55,93 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | TR-01 |
 | **Título** |Conexión con plataforma de pagos |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | La página tendrá una conexión con la plataforma PSE|
+| **Tareas requisito** | |
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-02 |
 | **Título** |Generación del archivo JSON |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Almacenar los datos de la página mediante archivos JSON |
+| **Tareas requisito** |  |
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-03 |
 | **Título** |Sistema de notificación |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** |La página debe notificar cualquier transacción que se realice  |
+| **Tareas requisito** | TR-01 |
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-04 |
 | **Título** |Creación de la base de datos de torneos|
 | **ID de la Historia de Uso asociada** | HU-02 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Crear la base de datos para almacenar la información correspondiente al torneo  |
+| **Tareas requisito** |  |
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-05 |
 | **Título** |Conexión de la base de datos de torneos con la app|
 | **ID de la Historia de Uso asociada** | HU-02 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Poder conectar nuestra aplicación con la base de datos creada|
+| **Tareas requisito** | TR-04|
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-06 |
 | **Título** |Manejo de accesos a la creación de torneos|
 | **ID de la Historia de Uso asociada** | HU-02 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Descripción** | Creación de los límites de seguridad para creación de torneos |
+| **Tareas requisito** |  |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-07 |
+| **Título** |Añadir estudiantes al equipo |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | El capitán debe ser capaz de añadir personas al equipo |
 | **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
 
-| **ID** | TR-01 |
-| **Título** |Conexión con plataforma de pagos |
-| **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-08 |
+| **Título** |Crear equipo|
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | Como capitán debo ser capaz de añadir un logo a su equipo |
+| **Tareas requisito** |  |
 
-| **ID** | TR-01 |
-| **Título** |Conexión con plataforma de pagos |
-| **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-09 |
+| **Título** |Inscribir a un equipo |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | Como capitán debo ser capaz de inscribir a mi equipo a un torneo correspondiente|
+| **Tareas requisito** |TR-07|
 
-| **ID** | TR-01 |
-| **Título** |Conexión con plataforma de pagos |
-| **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
-
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-10 |
 | **Título** |Conexión con la base de datos de los usuarios|
 | **ID de la Historia de Uso asociada** | HU-04 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Conectar la página con la base de datos que registra los usuarios|
+| **Tareas requisito** |  |
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-11 |
 | **Título** |Interfaz de registro de usuario|
 | **ID de la Historia de Uso asociada** | HU-04 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Crear el interfaz para el registro de usuarios|
+| **Tareas requisito** | TR-10|
 
+| Campo | Descripción |
+|------|-------------|
 | **ID** | TR-12 |
 | **Título** |Interfaz de inicio de sesión |
 | **ID de la Historia de Uso asociada** | HU-04 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | Crear el interfaz para que el usuario pueda iniciar sesión una vez creada la cuenta |
+| **Tareas requisito** | TR-10 |
