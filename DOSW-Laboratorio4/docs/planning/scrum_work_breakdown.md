@@ -104,7 +104,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** |Añadir estudiantes al equipo |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | El capitán debe ser capaz de añadir personas al equipo |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Tareas requisito** | |
 
 | Campo | Descripción |
 |------|-------------|
