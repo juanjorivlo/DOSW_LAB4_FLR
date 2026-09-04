@@ -22,6 +22,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como Decano quiero recolectar el dinero de las inscripciones para poder realizar el mantenimiento de la infraestructura deportiva* |
 | **Prioridad** | *Baja* |
 | **Estimación** | *1 mes* |
+| **Puntos de historia** | *3* |
 
 | Campo | Descripción |
 |------|-------------|
@@ -30,6 +31,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como organizador quiero crear torneos de manera sencilla para poder generar una experiencia recreativa en los estudiantes* |
 | **Prioridad** | *Alta* |
 | **Estimación** | *2 semanas* |
+| **Puntos de historia** | *1* |
 
 
 | Campo | Descripción |
@@ -39,6 +41,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como capitán quiero inscribir a mi equipo en los torneos semestrales para poder ser partícipe de estos* |
 | **Prioridad** | *Alta* |
 | **Estimación** | *2 semanas* |
+| **Puntos de historia** | *1* |
 
 | Campo | Descripción |
 |------|-------------|
@@ -47,6 +50,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como estudiante quiero registrarme en la aplicación para poder ser inscrito por un capitán* |
 | **Prioridad** | *Alta* |
 | **Estimación** | *2 semanas* |
+| **Puntos de historia** | *1* |
 
 ### 3. Tareas:
 
