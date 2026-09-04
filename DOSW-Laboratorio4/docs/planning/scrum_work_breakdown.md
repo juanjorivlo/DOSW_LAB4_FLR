@@ -145,3 +145,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Crear el interfaz para que el usuario pueda iniciar sesión una vez creada la cuenta |
 | **Tareas requisito** | TR-10 |
+
+### LINK DEL VIDEO:
+<br>
+https://drive.google.com/file/d/1YP5uVy8045_9qdzhAVyK9vFp9CFXslIX/view?usp=sharing
